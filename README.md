@@ -16,3 +16,7 @@ For the styles i used CSS Modules.
     $ npm i
     // Start the app
     $ npm run dev
+
+<hr>
+
+The project is **live**! You can check [here](https://ignite-feed-lime.vercel.app/). :zap:
