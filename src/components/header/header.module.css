@@ -1,0 +1,21 @@
+.header {
+    background: var(--gray-800);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.25rem 0;
+    box-shadow: 5px 5px 12px 0px rgba(0, 0, 0, 0.2);
+    gap: 1rem;
+}
+
+.header img {
+    height: 2rem;
+    user-select: none;
+}
+
+.header strong {
+    font-weight: bold;
+    font-size: 1.525rem;
+    color: var(--gray-100);
+    user-select: none;
+}
